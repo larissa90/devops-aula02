@@ -1,5 +1,6 @@
 # devops-aula02
 
 ## Hero tiffin Fiennes
-## Chay Suede
+## Selena Gomez
 ## Micael Borges
+## Bruna Marquezine
